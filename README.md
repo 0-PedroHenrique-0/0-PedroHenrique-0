@@ -1,6 +1,6 @@
 ### 🧑🏻‍💻 Olá! me chamo Pedro Henrique.
 
-- 📊 Desenvolvedor Back-End
+- 📊 Desenvolvedor Full-Stack
 - 📚 Estudante de Java.
 
 <div> 
