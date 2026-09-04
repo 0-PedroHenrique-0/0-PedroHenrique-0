@@ -83,21 +83,6 @@ Atuação voltada ao desenvolvimento backend, com foco em construção, evoluç�
 
 ---
 
-## 📚 Atualmente estudando
-
-```text
-Kotlin           ███████████████████░  Aprofundando
-Spring Boot      ██████████████████░░  Aprofundando
-Backend          ███████████████████░  Foco principal
-Arquitetura      ████████████████░░░░  Evoluindo
-Testes / QA      ███████████████░░░░░  Estudando
-React Native     ████████████░░░░░░░░  Faculdade
-```
-
-Meu foco atual é fortalecer minha base em **Kotlin + Spring**, melhorar minha visão de arquitetura backend e evoluir em **testes, sistemas distribuídos e boas práticas de engenharia de software**.
-
----
-
 ## 🚀 Projeto em destaque
 
 ### 🎨 [Galeria Seleta](https://github.com/0-PedroHenrique-0/Galeria-Seleta-FullStack)
@@ -134,16 +119,6 @@ Aplicação web **Full Stack** desenvolvida para uma galeria/brechó online, com
 ```
 
 > Código é a ferramenta. **Evolução é o processo. Impacto é o objetivo.** 🚀
-
----
-
-## 📈 GitHub
-
-Gosto de utilizar o GitHub para registrar minha evolução, experimentar novas tecnologias e construir projetos que me permitam transformar conhecimento em prática.
-
-**Foco atual:**
-
-`Backend` · `Kotlin` · `Java` · `Spring Boot` · `AWS` · `Sistemas Distribuídos`
 
 ---
 
