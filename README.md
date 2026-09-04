@@ -1,126 +1,166 @@
-# 👋 Olá! Eu sou Pedro Henrique
+# 👋 Olá, eu sou Pedro Henrique
 
-💻 Desenvolvedor Full-Stack em formação  
-☕ Focado em Java, Spring Boot e Angular  
-🚀 Criando projetos web modernos e responsivos  
-📚 Atualmente estudando APIs REST, Banco de Dados e Arquitetura FullStack 
+### `Assistant Software Developer` · `Backend Developer`
 
----
+> **Transformando problemas em código limpo, soluções escaláveis e impacto de verdade.**
 
-## 🚀 Tecnologias
+Atualmente atuo como **Assistant Software Developer na Zup Innovation**, com foco em desenvolvimento **Backend**, trabalhando principalmente com **Kotlin e Java**.
 
-- Java
-  <img 
-    align="center" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-left: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  />
-- Spring Boot 
- <img 
-    align="center" 
-    alt="Spring"
-    title="Spring" 
-    width="30px" 
-    style="padding-left: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Spring-Dark.svg" />
-- Angular
- <img 
-    align="center" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-left: 10px;" 
-    src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" />
-- Bootstrap
-  <img 
-    align="center" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-left: 10px;" 
-    src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg"/>
-- TypeScript 
- <img 
-    align="center" 
-    alt="Ts"
-    title="TypeScript"
-    height="20"
-    width="30" 
-    style="padding-left: 10px;"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-- JavaScript 
- <img 
-    align="center" 
-    alt="Js" 
-    title="JavaScript"
-    height="20" 
-    width="30" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-- MySQL 
-<img 
-    align="center" 
-    alt="Sql" 
-    title="Sql"
-    width="30px"
-    style="margin-left: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-- Git & GitHub
-<img 
-    align="center" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img 
-    align="center" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg"/>
- 
-- HTML & CSS 
-<img 
-    align="center"
-    alt="HTML"
-    title="HTML5"
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img 
-    align="center"
-    alt="CSS" 
-    title="CSS3"
-    height="30"
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+No meu dia a dia, tenho contato com **Spring Boot, APIs, PostgreSQL, sistemas distribuídos, mensageria, AWS, CI/CD, Docker e Kubernetes/EKS**, buscando evoluir continuamente em arquitetura, qualidade de código e engenharia de software.
 
 ---
 
-## 📌 Projetos em destaque
+## 🧠 Sobre mim
 
-### 🛒 Galeria Seleta
-E-commerce FullStack com:
-- Carrinho funcional
-- Frontend Angular
-- Backend Spring Boot
-- Integração API REST
-- Design responsivo
+- 💻 Foco profissional em **Backend Development**
+- 🟣 Linguagem principal atualmente: **Kotlin**
+- ☕ Experiência com **Java** e ecossistema Spring
+- 🌐 Desenvolvimento e integração de **APIs REST**
+- 🔄 Interesse em **sistemas distribuídos e mensageria**
+- ☁️ Experiência prática com serviços da **AWS**
+- 🧪 Contato com **testes automatizados e JUnit 5**
+- ⚙️ Utilização de **CI/CD, Git e Gitflow** no fluxo de desenvolvimento
+- 📦 Utilização de **Docker** e contato com **Kubernetes/EKS**
 
 ---
 
-## 📫 Contato
+## 🛠️ Tech Stack
 
-- LinkedIn: https://www.linkedin.com/in/pedro-henrique-4453a1238/
-- Email: pedro.wolfitz@gmail.com
+### Backend
 
-<div> 
- <a href="https://mail.google.com/mail/?view=cm&to=pedro.wolfitz@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-4453a1238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+`Kotlin` · `Java` · `Spring Boot` · `REST APIs`
+
+### Banco de Dados
+
+`PostgreSQL` · `SQL`
+
+### Cloud & Mensageria
+
+`AWS` · `Amazon SQS` · `Amazon SNS` · `Amazon SES` · `AWS Secrets Manager` · `Sistemas Distribuídos`
+
+### DevOps & Infraestrutura
+
+`Docker` · `Kubernetes` · `Amazon EKS` · `CI/CD` · `Gradle / Gradle Wrapper`
+
+### Testes & Qualidade
+
+`JUnit 5` · `Testes Automatizados` · `Clean Code`
+
+### Versionamento
+
+`Git` · `GitHub` · `Gitflow`
+
+### Conhecimentos complementares
+
+`JavaScript` · `TypeScript` · `Angular` · `React Native` · `Node.js` · `HTML` · `CSS`
+
+---
+
+## 💼 Experiência atual
+
+### 🟢 Zup Innovation — Assistant Software Developer
+
+**Julho de 2026 — Atualmente**
+
+Atuação voltada ao desenvolvimento backend, com foco em construção, evolução e integração de aplicações e serviços.
+
+**Principais tecnologias e práticas:**
+
+- Kotlin e Java
+- Spring Boot
+- PostgreSQL
+- APIs e integrações entre serviços
+- Sistemas distribuídos
+- Mensageria com **Amazon SQS e SNS**
+- Comunicação e serviços utilizando **Amazon SES**
+- Gerenciamento de credenciais e configurações com **AWS Secrets Manager**
+- Docker
+- Kubernetes / Amazon EKS
+- CI/CD
+- Git e Gitflow
+- Testes automatizados com JUnit 5
+- Gradle / Gradle Wrapper
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+Kotlin           ███████████████████░  Aprofundando
+Spring Boot      ██████████████████░░  Aprofundando
+Backend          ███████████████████░  Foco principal
+Arquitetura      ████████████████░░░░  Evoluindo
+Testes / QA      ███████████████░░░░░  Estudando
+React Native     ████████████░░░░░░░░  Faculdade
+```
+
+Meu foco atual é fortalecer minha base em **Kotlin + Spring**, melhorar minha visão de arquitetura backend e evoluir em **testes, sistemas distribuídos e boas práticas de engenharia de software**.
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🎨 [Galeria Seleta](https://github.com/0-PedroHenrique-0/Galeria-Seleta-FullStack)
+
+Aplicação web **Full Stack** desenvolvida para uma galeria/brechó online, com catálogo de produtos, autenticação, carrinho, pedidos e integração através de API REST.
+
+**Stack do projeto:**
+
+`Angular 19` · `Java 17` · `Spring Boot 3` · `SQLite` · `REST API`
+
+**Destaques:**
+
+- 🛒 Carrinho e fluxo de pedidos
+- 🔐 Estrutura de autenticação e gerenciamento de usuários
+- 🧩 API REST organizada por responsabilidades
+- 🗂️ Produtos, categorias, pedidos e usuários
+- 📱 Interface responsiva
+- 🧪 Arquivo de requisições para testes da API
+
+> Projeto mantido como parte do meu portfólio para demonstrar conhecimentos de desenvolvimento Full Stack e integração entre frontend e backend.
+
+---
+
+## 🐍 Commit Hunter
+
+```text
+                 🐍
+                / \
+       🟢  🟢  🟢  🟢  🟢
+          🟢  🟢  🟢
+     🟢  🟢  🟢  🟢  🟢
+
+        "Alimentando a cobra com commits."
+```
+
+> Código é a ferramenta. **Evolução é o processo. Impacto é o objetivo.** 🚀
+
+---
+
+## 📈 GitHub
+
+Gosto de utilizar o GitHub para registrar minha evolução, experimentar novas tecnologias e construir projetos que me permitam transformar conhecimento em prática.
+
+**Foco atual:**
+
+`Backend` · `Kotlin` · `Java` · `Spring Boot` · `AWS` · `Sistemas Distribuídos`
+
+---
+
+## 🤝 Vamos conversar?
+
+Estou sempre aberto a trocar experiências, aprender com outros desenvolvedores e conversar sobre tecnologia, backend e desenvolvimento de software.
+
+- 💼 **LinkedIn:** [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique-4453a1238/)
+- 🐙 **GitHub:** [0-PedroHenrique-0](https://github.com/0-PedroHenrique-0)
+- 📧 **E-mail:** [pedro.wolfitz@gmail.com](mailto:pedro.wolfitz@gmail.com)
+
+---
+
+<div align="center">
+
+### `while(alive) { learn(); build(); improve(); }` 💻
+
+**Pedro Henrique · Assistant Software Developer · Backend**
+
 </div>
