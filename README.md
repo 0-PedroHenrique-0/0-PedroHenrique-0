@@ -106,22 +106,6 @@ Aplicação web **Full Stack** desenvolvida para uma galeria/brechó online, com
 
 ---
 
-## 🐍 Commit Hunter
-
-```text
-                 🐍
-                / \
-       🟢  🟢  🟢  🟢  🟢
-          🟢  🟢  🟢
-     🟢  🟢  🟢  🟢  🟢
-
-        "Alimentando a cobra com commits."
-```
-
-> Código é a ferramenta. **Evolução é o processo. Impacto é o objetivo.** 🚀
-
----
-
 ## 🤝 Vamos conversar?
 
 Estou sempre aberto a trocar experiências, aprender com outros desenvolvedores e conversar sobre tecnologia, backend e desenvolvimento de software.
