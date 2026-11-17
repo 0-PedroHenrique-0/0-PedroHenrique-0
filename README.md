@@ -56,6 +56,25 @@ No meu dia a dia, tenho contato com **Spring Boot, APIs, PostgreSQL, sistemas di
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=0-PedroHenrique-0&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide_rank=true"
+    height="180"
+    alt="GitHub Stats"
+  />   &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=0-PedroHenrique-0&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+
+</div>
+
+---
+
 ## 💼 Experiência atual
 
 ### 🟢 Zup Innovation — Assistant Software Developer
